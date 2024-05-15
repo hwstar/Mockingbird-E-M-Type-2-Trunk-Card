@@ -1,0 +1,66 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "8afcc56f-a078-4df7-8d9c-70a1b2af03d8")
+	(paper "A4")
+	(title_block
+		(date "2024-01-21")
+		(rev "X1")
+	)
+	(lib_symbols)
+	(text "E&M TRUNK CARD"
+		(exclude_from_sim no)
+		(at 204.47 176.53 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left bottom)
+		)
+		(uuid "abd4c40d-fef7-40c0-a9d8-24261671560a")
+	)
+	(sheet
+		(at 165.1 83.82)
+		(size 31.75 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f765ab5-b7d2-49b4-93a8-518e321ca076")
+		(property "Sheetname" "Top"
+			(at 165.1 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "top.kicad_sch"
+			(at 165.1 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "e-and-m-interface"
+				(path "/8afcc56f-a078-4df7-8d9c-70a1b2af03d8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

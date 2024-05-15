@@ -1,0 +1,9 @@
+*.zip
+Rev_A/
+bom-merged_unmatched.csv
+bom.csv
+e-and-m-interface-backups/
+*.pdf
+*.jpg
+gencsvs.sh
+
