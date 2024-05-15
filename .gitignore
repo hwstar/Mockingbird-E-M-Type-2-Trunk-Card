@@ -6,4 +6,5 @@ e-and-m-interface-backups/
 *.pdf
 *.jpg
 gencsvs.sh
+*.lck
 
