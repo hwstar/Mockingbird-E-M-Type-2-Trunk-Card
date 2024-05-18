@@ -18,4 +18,4 @@ Features:
 * 4 Wire transformer isolated audio interface converts the balanced interface audio to unbalanced.
 * Design in KiCAD 8.0.
 
-
+The main project website is on hackaday.io here: https://hackaday.io/project/196044-mockingbird-telephone-exchange
